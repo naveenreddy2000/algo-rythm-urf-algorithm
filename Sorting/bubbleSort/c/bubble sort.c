@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main()
+int main() 
 {
   int array[100], n, c, d, swap;
 
